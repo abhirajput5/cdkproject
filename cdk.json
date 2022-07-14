@@ -31,6 +31,8 @@
     "@aws-cdk/core:target-partitions": [
       "aws",
       "aws-cn"
-    ]
+    ],
+    "project_name": "pipeline-cdk",
+    "env": "dev"
   }
 }
